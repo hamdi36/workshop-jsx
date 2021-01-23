@@ -1,0 +1,10 @@
+.App{
+  background-color: rgb(0, 112, 139);
+}
+.title{
+  text-align: center;
+  color: red;
+  font-style: italic;
+  font-size: 50px;
+
+}
